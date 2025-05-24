@@ -1,6 +1,6 @@
 # Weather App Vue 🌦️
 
-# Este projeto de **Previsão do Tempo** foi desenvolvido utilizando **Vue.js**, **Quasar Framework** e a **API do WeatherAPI**. Ele permite que os usuários consultem a previsão do tempo de diferentes cidades, fornecendo informações úteis sobre o clima.
+Este projeto de **Previsão do Tempo** foi desenvolvido utilizando **Vue.js**, **Quasar Framework** e a **API do WeatherAPI**. Ele permite que os usuários consultem a previsão do tempo de diferentes cidades, fornecendo informações úteis sobre o clima.
 
  ## 🚀 Funcionalidades
 
